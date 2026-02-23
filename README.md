@@ -32,7 +32,7 @@ These artifacts are a direct reflection of my technical abilities in security, a
 
 Below is a link to my code review. In the code review, I cover two of my previous assignments that I chose as my artifacts to enhance. This code review will cover the original projects and the enhancements I plan to make to each of them.
 
-Link >>> [https://youtu.be/0Tpk961IssA]
+[Code Review](https://youtu.be/0Tpk961IssA)
 
 
 ### Artifact 1
