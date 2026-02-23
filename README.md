@@ -1,7 +1,9 @@
-# Computer Science ePortfolio
+# COMPUTER SCIENCE ePORTFOLIO
 ## Shelby Van Allen
 
+
 ### Professional Self-Assessment
+
 As my time in the Computer Science program at Southern New Hampshire University comes to a close, I am taking the time to reflect on my journey and all I have accomplished.  I remember my first day in the program and how nervous I was. I had no idea what to expect and how significantly this degree would shape my skillset as well as my professional direction. I came into this program with over 12 years of experience in the testing, troubleshooting, and repair of avionics radar subsystems. This degree expanded that foundation and allowed me to connect my hardware expertise with software development. As I progressed in the program, I was able to take something valuable from each course, preparing me to move into roles that bridge electronics, software, and data.
 
 Throughout my career in avionics, teamwork has always been essential. However, collaborating for the purpose of software development was a new experience. In my Software Development Lifecycle course, I had the opportunity to work in scrum teams and experience the full software development lifecycle. I gained experience gathering requirements, planning sprints, developing and testing, and even participating in retrospectives. I was able to see the true importance of each scrum role and what they contribute to the process and learned that every task contributes to the overall success of the system. The most impactful aspect of this experience was the focus on communication and continuous improvement. Being able to work with stakeholders, asking questions and adjusting as needed reinforced the importance of continuous improvement.
@@ -23,3 +25,14 @@ The second artifact is from CS300 Data Structures and Algorithms. I was able to 
 The third artifact is another enhancement made to the same CS300 project used in my second artifact. I took the same program and demonstrated my ability to integrate a database. I connected the program to a local MongoDB database so course information could be stored and updated more easily, rather than relying on a CSV file. This enhancement demonstrates practical software development skills, strategies for building collaborative environments, and my security mindset. The addition of a database to this program is a solution that are scalable, secure, and can be adapted to specific audiences and contexts. 
 
 These artifacts are a direct reflection of my technical abilities in security, algorithms, software design, and databases. Together they demonstrate how much I have learned during my time in the computer science program as well as how I apply these skills to real-world scenarios. Moving forward, I am excited to pursue opportunities that combine electronics, software, and data, where I can continue to grow professionally and contribute a mindset focused on collaboration, security, continuous improvement, and thoughtful system design.
+
+
+### Code Review
+
+
+Below is a link to my code review. In the code review, I cover two of my previous assignments that I chose as my artifacts to enhance. This code review will cover the original projects and the enhancements I plan to make to each of them.
+
+Link >>> https://youtu.be/0Tpk961IssA
+
+
+### Artifact 1
