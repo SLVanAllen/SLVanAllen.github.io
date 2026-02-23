@@ -10,3 +10,9 @@ Because of the assignment’s clear concept, I think taking the time to clean up
 I met the course outcomes I anticipated meeting in Module One with this enhancement. I improved the use of my vector and eliminated unnecessary work, which improved the overall efficiency of my program. Making these changes aligns directly with course outcomes three, four, and five. I would expand my outcome coverage plan to encompass course outcomes number two as well. I noticed when implementing my changes that the updates I was making weren’t just about inefficiency; they were about code correctness as well. Although my program worked as is originally, it was not written correctly and therefore could not be considered good in terms of data integrity and reliability. With the enhancements I made, the code is now more reliable which aligns with designing, developing, and delivering professional-quality oral, written, and visual communications that are coherent, technically sound. 
 	
   When creating the program originally, I would say I was challenged with understanding of how and when to implement which data structures. For this reason, I ended up with some unused logic in my program that I didn’t understand until much later. Now with this enhancement, I would say I was challenged with more so with making sure the performance is not decreased by the refactoring. It was hard to teeter the line of efficiency and readability and testability. I found that although one solution may be cleaner, it may not always be the most efficient which is part of managing tradeoffs in design. Ultimately, I think I implemented the best solution.
+
+### Original File
+[Vector](Project2.html)
+
+### Enhancement
+[Vector](Enhancement2Vector.html)
